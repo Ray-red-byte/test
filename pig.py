@@ -39,7 +39,6 @@ def draw_pig(leg_position):
 
     pygame.display.flip()
 
-leg_position = 40
 
 # Run the game loop
 while True:
