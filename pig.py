@@ -48,7 +48,7 @@ while True:
             sys.exit()
 
     screen.fill(white)
-    draw_pig(leg_position)
+    #draw_pig(leg_position)
     pygame.display.flip()
 
 
